@@ -648,7 +648,7 @@ section {
 }
 
 .get-started .php-email-form button[type='submit']:hover {
-    background: rgba(254, 185, 0, 0.8);
+    background: #fa6775;
 }
 
 @keyframes animate-loading {
@@ -1740,7 +1740,7 @@ section {
 }
 
 .contact .php-email-form button[type='submit']:hover {
-    background: rgba(254, 185, 0, 0.8);
+    background: #fa6775;
 }
 
 @keyframes animate-loading {
@@ -2341,7 +2341,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-    background: rgba(254, 185, 0, 0.8);
+    background: #fa6775;
 }
 
 .blog .sidebar .categories ul {
@@ -2519,7 +2519,7 @@ section {
 
 .blog .comments .reply-form input:focus {
     box-shadow: none;
-    border-color: rgba(254, 185, 0, 0.8);
+    border-color: #fa6775;
 }
 
 .blog .comments .reply-form textarea {
@@ -2530,7 +2530,7 @@ section {
 
 .blog .comments .reply-form textarea:focus {
     box-shadow: none;
-    border-color: rgba(254, 185, 0, 0.8);
+    border-color: #fa6775;
 }
 
 .blog .comments .reply-form .form-group {
@@ -2727,7 +2727,7 @@ header h2 {
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
     max-width: 150px;
-    border-radius: 35px;
+    border-radius: 5px;
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
